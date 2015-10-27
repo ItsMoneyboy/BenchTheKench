@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using doubleH_Support.Champions;
 using LeagueSharp;
 using LeagueSharp.Common;
 using Color = System.Drawing.Color;
